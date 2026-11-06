@@ -80,6 +80,7 @@ Busco uma oportunidade na área de **Dados**, especialmente como **Analista de D
 ## Contato
 
 LinkedIn: https://www.linkedin.com/in/vinicius-le%C3%A3o-ramos-09361624b/
+
 GitHub: https://github.com/ViniciusLeao01
 
 ---
