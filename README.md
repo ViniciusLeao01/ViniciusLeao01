@@ -30,9 +30,6 @@ Acredito no **aprendizado contínuo**, na **organização**, na **resolução de
 
 * HTML
 * CSS
-* JavaScript
-* PHP
-* Java
 * C
 
 ### Ferramentas
